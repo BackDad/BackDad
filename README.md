@@ -4,9 +4,17 @@ ___
 
 I'm Sergey and I 30 years old.
 Until today, I was a physics teacher and taught classes on alternative energy:sun,wind,water,hydrogen etc.
-Now i'm gonna be an a developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Now+i'm+gonna+be+an+a....;....developer(˘▽˘)っ♨)](https://git.io/typing-svg)
 ___
-- 🔭 I’m currently working on Python developing CRM-system for tutors named ["TEACHa"](https://github.com/BackDad/Diploma_GB)
+
+
+- 🔭 I’m currently working on Python developing CRM-system for tutors named ["ТИЧА"](https://github.com/BackDad/Diploma_GB)
+
+<p align="center">
+  <img src="https://github.com/BackDad/Diploma_GB/blob/master/pic.png" />
+</p>
+
 
 ___
 - 🌱 I’m currently learning
