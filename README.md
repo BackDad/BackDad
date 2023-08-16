@@ -31,8 +31,3 @@ ___
   [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/Manuk_1122)
   [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/manuk_1)
   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pteach2017@gmail.com)
-
-
-  ___ 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BackDad)](https://github.com/BackDad/github-profile-trophy)
-
