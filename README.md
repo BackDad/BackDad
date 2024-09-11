@@ -2,7 +2,7 @@
 ___
 ### About me
 
-I'm Sergey and I 30 years old.
+I'm Sergey and I 31 years old.
 Until today, I was a physics teacher and taught classes on alternative energy:sun,wind,water,hydrogen etc.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Now+i'm+gonna+be+an+a....;....developer(˘▽˘)っ♨)](https://git.io/typing-svg)
