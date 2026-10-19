@@ -1,37 +1,95 @@
-## Hi Everyone 👋
-___
-### About me
 
-I'm Sergey and I 32 years old.
-Until today, I was a physics teacher and taught classes on alternative energy:sun,wind,water,hydrogen etc.
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Now+i'm+gonna+be+an+a....;....developer(˘▽˘)っ♨)](https://git.io/typing-svg)
-___
+# Sergey Manukovsky
 
+### Backend / Fullstack Developer
 
-- 🔭 I’m currently working on Python developing CRM-system for tutors named ["ТИЧА"](https://github.com/BackDad/Diploma_GB)
+**Node.js · PostgreSQL · Vue.js · Docker**
 
-<p align="center">
-  <img src="https://github.com/BackDad/Diploma_GB/blob/master/pic.png" />
-</p>
+Building web services, internal tools and APIs — from architecture to production.
 
+[Portfolio](https://backdad.pro/) ·
+[Telegram](https://t.me/Manuk_1122) ·
+[Email](mailto:manuk_1122@mail.ru)
 
-___
-- 🌱 I’m currently learning
+</div>
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+---
 
-  ___
-- 📫 How to reach me:
+### `> whoami`
 
-  
-  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/Manuk_1122)
-  [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/manuk_1)
-  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pteach2017@gmail.com)
+I'm a backend-focused fullstack developer building
+production-ready applications, REST APIs and internal
+business systems.
+
+I work across the entire development lifecycle:
+architecture, backend logic, frontend, databases,
+CI/CD, deployment and maintenance.
+
+Previously a physics teacher and technical mentor.
+Still curious about how things work.
+
+### `> cat stack.json`
+
+| Area | Technologies |
+|------|-------------|
+| Backend | Node.js, Express, PHP, Laravel |
+| Frontend | Vue 2/3, Quasar, Pinia, Tailwind |
+| Databases | PostgreSQL, MySQL, SQL |
+| Infrastructure | Docker, Linux, Nginx, GitLab CI |
+| Tools | Git, REST API, Docker Compose |
+
+### `> ls projects/`
+
+**01 / Personnel Assessment Platform**
+
+Production SPA serving ~5,000 users.
+
+`Vue 3` `Quasar` `Pinia` `Docker` `GitLab CI`
+
+**02 / Corporate Portal**
+
+Internal platform for ~2,000 users with booking,
+requests, budgeting and electronic signature modules.
+
+`Vue 2` `Node.js` `Express` `PostgreSQL`
+
+**03 / MSIT School**
+
+Educational web platform built from scratch.
+Payment integration, notifications, PDF reporting
+and SEO.
+
+`Laravel` `Tailwind CSS` `MySQL`
+
+[Visit website ↗](https://msitschool.com/)
+
+**04 / ТИЧА — Tutor CRM**
+
+CRM for tutors, developed from architecture
+to deployment.
+
+`Vue 3` `Node.js` `PostgreSQL`
+
+[View repository ↗](https://github.com/BackDad/Diploma_GB)
+
+### `> git log --oneline`
+
+- **2024 — Present** · Software Engineer @ Rosatom Technical Academy
+- **2023 — Present** · Fullstack Developer @ MSIT School
+- **2017 — 2022** · Physics Teacher & Technical Expert @ Quantorium
+
+---
+
+<div align="center">
+
+### `> ./contact.sh`
+
+Open to interesting backend and fullstack projects.
+
+**[backdad.pro](https://backdad.pro/)**
+
+<sub>Build. Deploy. Improve. Repeat.</sub>
+
+</div>
